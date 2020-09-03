@@ -6,6 +6,3 @@ function toggleMenu() {
 }
 
 menuToggle.addEventListener('click', toggleMenu);
-
-
-
